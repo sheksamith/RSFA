@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RSFA</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="reading_incoming_sms">Reading Incoming SMS…</string>
+    <string name="reading_sms_description">New SMS Will Be Sent To Firebase RealTime Server</string>
+</resources>
